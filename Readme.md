@@ -58,7 +58,7 @@ Le serveur reçoit la chaîne, la découpe avec `split(" ")`, calcule selon l'op
 
 **2. Le client envoie l'opération `5 * 9` et reçoit le résultat `45.0`**
 
-![Résultat côté client](captures/serveur_faux.png)
+![Résultat côté client](images/serveur_faux.png)
 
 **3. Le serveur affiche l'opération reçue**
 
